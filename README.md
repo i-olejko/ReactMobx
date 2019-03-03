@@ -1,2 +1,0 @@
-# ReactMobx
-Created with CodeSandbox
